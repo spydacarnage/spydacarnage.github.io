@@ -1,5 +1,8 @@
 ﻿OTIF Release Notes
 
+v1.0.4 - 06-Dec-2020 17:30
+UPDATE: Added extra dimension-related data to About Diagnostics.
+
 v1.0.3 - 06-Dec-2020 17:00
 UPDATE: Added a new Updater exe to make updating the software easier.
 UPDATE: Added an About form which, not only says what version of the software is running, but also a space to add diagnostic info that I may need to ask the client :-)
