@@ -1,11 +1,15 @@
 ﻿OTIF Release Notes
 
-v1.0.4 - 06-Dec-2020 17:30
+v1.00.05 - 09-Dec-2020 14:00
+BUGFIX: Removed debug code from screen size shrinking (which stopped it working!)
+UPDATE: Added gating code to deal with Batches and BatchTemplates that are loaded when the Species Max Weeks value has been lowered to below that value.
+
+v1.00.04 - 06-Dec-2020 17:30
 UPDATE: Added extra dimension-related data to About Diagnostics.
 
-v1.0.3 - 06-Dec-2020 17:00
+v1.00.03 - 06-Dec-2020 17:00
 UPDATE: Added a new Updater exe to make updating the software easier.
 UPDATE: Added an About form which, not only says what version of the software is running, but also a space to add diagnostic info that I may need to ask the client :-)
 
-v1.0.2
+v1.00.02
 BUGFIX: Added code to force the Main form, and the Batch and BatchTemplate forms to shrink to the maximum allowed size if the screen is smaller than the default size.
